@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuvarshaChennareddy
+- 👋 Hi, I’m @SuvarshaChennareddy and I hope to become a machine learning expert someday!
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning
