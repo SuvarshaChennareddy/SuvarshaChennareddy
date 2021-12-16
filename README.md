@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuvarshaChennareddy and I hope to become a machine learning expert someday!
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: suvarshachennareddy@gmail.com
 
 <!---
